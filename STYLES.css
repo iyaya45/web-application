@@ -1,0 +1,13 @@
+h2{
+    color: brown;
+    font-size: 32px;
+    text-align: center;
+
+}
+p{
+    color: darkgreen;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+}
+.navbar
